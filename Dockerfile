@@ -12,4 +12,3 @@ COPY murphy.mp3 .
 COPY whisper_demo.py .
 
 CMD echo "-----successful------"
-
